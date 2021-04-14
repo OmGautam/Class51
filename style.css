@@ -1,0 +1,47 @@
+h1 {
+    color: aqua;
+    border: solid;
+}
+* {
+    border: solid;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+.social {
+    display: flex;
+    justify-content:flex-end; 
+}
+.first {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+.text {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+.second {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+.text2 {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    text-align: center;
+}
+body {
+    background-color: #1B923F;
+    background-image: url("game2.png");
+    border-color: #2DF665;
+    border-bottom-style: dotted;
+    color: #F62311;
+    }
